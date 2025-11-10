@@ -15,7 +15,7 @@ My name is Nick, and I am a full stack developer with 15+ years of experience of
 ![VueJs](https://img.shields.io/badge/Library-VueJS-61DAFB?logo=vue.js&logoColor=white)
 
 - 🔭 I’m currently working on: An Allowances project (in a few different frameworks, as time allows), so I can stop using a spreadsheet :P
-- 🌱 I’m currently learning: everything I can, all the time. But seriously, brushing up on current PHP and JS frameworks, with lofty goals to learn Node and Go in the future.
+- 🌱 I’m currently learning: everything I can, all the time. But seriously, brushing up on current PHP and JS frameworks, with lofty goals to learn Go and possibly some AI / ML libs in Python in the future.
 - 🤔 I’m looking for help with: finding my next fulltime employment!
 - ⚡ Fun fact: I played bass in various bands earlier in life and networking with a concert promoter is how I got my start in programming!
 - 📫 How to reach me: [Email](mailto:nickmichaels@gmail.com)
