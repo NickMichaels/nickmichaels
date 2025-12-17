@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-My name is Nick, and I am a full stack developer with 15+ years of experience of software engineering experience. I have written clean, well-documented code, spearheaded teams and managed integrations. Skilled in PHP, JavaScript, and MySQL, I have optimized systems, mentored developers, and utilized the implementation of agile methodologies, contributing to the success of various high-impact projects.
+My name is Nick, and I am a software engineer with 15+ years of experience of professional experience. I have written clean, well-documented code, spearheaded teams and managed integrations. Skilled in PHP, JavaScript, and MySQL, I have optimized systems, mentored developers, and utilized the implementation of agile methodologies, contributing to the success of various high-impact projects.
 
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=777BB4)
